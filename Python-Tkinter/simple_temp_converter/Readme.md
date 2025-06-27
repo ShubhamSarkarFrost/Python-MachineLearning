@@ -28,9 +28,3 @@ It allows conversions between **Celsius**, **Fahrenheit**, and **Kelvin**, with 
 - Python 3.7+
 - [Pillow](https://pypi.org/project/Pillow/) (for image handling)
 
-
-
-
-## Screenshots
-![App Image -One ](resources/screenshot-one.png "App Image One")
-![App Image - Two](resources/screenshot-two.png "App Image Two")
